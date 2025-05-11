@@ -16,28 +16,6 @@
 
 ---
 
-## 📂 Структура репозитория
-system-analysis-labs/
-├── lab1/ # Основы системного анализа
-│ ├── sa1-urbanowich.pdf
-│ └── README.md
-├── lab2/ # Циклы обратной связи
-│ ├── sa2-urbanowich.pdf
-│ └── diagrams/
-├── lab3/ # Инструменты решения проблем
-│ ├── sa3-urbanowich.pdf
-│ └── analysis/
-├── lab4/ # Моделирование систем
-│ ├── sa4-borisevich-karpuk.pdf
-│ └── models/
-├── lab5/ # Комплексный системный анализ
-│ ├── sa5-borisevich-karpuk.pdf
-│ └── solutions/
-└── README.md # Этот файл
-
-
----
-
 ## 🔍 Содержание работ
 
 ### 📝 Лабораторная 1: Основы системного анализа
